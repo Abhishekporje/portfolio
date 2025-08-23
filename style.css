@@ -157,15 +157,15 @@
             content: '';
             position: absolute;
             top: 0;
-            left: -10%;
-            width: 100%;
+            left: -30%;
+            width: 90%;
             height: 100%;
             background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
             transition: left 0.5s ease;
         }
 
         .nav-links a:hover::before {
-            left: 100%;
+            left: 70%;
         }
 
         .nav-links a:hover {
@@ -1115,3 +1115,4 @@
             100% { transform: rotate(360deg); }
         }
     
+
