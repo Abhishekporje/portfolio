@@ -1,4 +1,4 @@
- <script>
+ 
         // Loading Screen
         window.addEventListener('load', () => {
             setTimeout(() => {
@@ -354,4 +354,5 @@
                 imageObserver.observe(img);
             });
         }
-    </script>
+    
+
